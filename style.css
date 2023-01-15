@@ -1,0 +1,48 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+#services_offered {
+    margin-top: 20px;
+}
+.column-service {
+    padding: 50px;
+    text-align: center;
+}
+.services-content {
+    margin-top: 30px;
+}
+.img-container {
+    text-align: center;
+}
+button {
+    margin-top: 70px;
+}
+
+footer {
+    background-color: black;
+    margin-top: 70px;
+    color: white;
+    padding: 20px;
+    
+}
+.footer-style {
+    color: white;
+    list-style: none;
+    text-decoration: none;
+}
+.footer-style:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+ul {
+    list-style: none;
+    color: white;
+}
+
+.img-style {
+    text-align: center;
+    margin-left: 60px;
+}
+
